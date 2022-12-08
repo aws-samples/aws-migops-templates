@@ -4,7 +4,7 @@
 #### Description
 Migrating mainframe applications to AWS requires an approach with four phases: Assess, Mobilize, Migrate & Modernize, and Operate, Optimize & Innovate. It is important to get an overview of these phases and of the AWS tools to consider in each phase.
 
-For an overview of the phases of a migration and the tools to use, see [AWS Migration Hub](https://aws.amazon.com/migration-hub/).
+For an overview of the phases of a migration and the tools to use, see [AWS Migration Hub](https://docs.aws.amazon.com/migrationhub/latest/ug/whatishub.html).
 For an overview of the cloud migration process, see [cloud migration process](https://aws.amazon.com/cloud-migration/).
 For an overview of the cloud migration process for mainframe workloads, see the [AWS Mainframe Modernization User Guide](https://docs.aws.amazon.com/m2/latest/userguide/what-is-m2.html).
 
@@ -808,7 +808,7 @@ Application performance monitoring is the process of using monitoring software a
 
 It is critical to monitor the performance of the overall system as well as individual components of the system. 
 
-For more information, see [AWS CloudWatch](https://aws.amazon.com/cloudwatch/).
+For more information, see [AWS CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html).
 #### Acceptance Criteria
 • List the application performance metrics that might be helpful in monitoring the overall application. Examples include average response times and system availability metrics.
 #### Acceptance Criteria

@@ -4,7 +4,7 @@
 #### Description
 To migrate applications to AWS, we recommend that you use an approach that consists of four phases: assessment, mobilization, migration, and operation. Before you start a migration, get an overview of these phases and of the AWS tools to consider in each phase. These details help simplify and automate the entire migration experience. 
 
-For an overview of the phases and tools that we recommend you use for migrations, see [AWS Migration Hub.](https://aws.amazon.com/migration-hub/.)
+For an overview of the phases and tools that we recommend you use for migrations, see [AWS Migration Hub.](https://docs.aws.amazon.com/migrationhub/latest/ug/whatishub.html.)
 
 For an overview of the migration process, see [AWS Cloud Migration.](https://aws.amazon.com/cloud-migration/.)
 #### Tools
@@ -2354,16 +2354,10 @@ Implement Landing Zone
 AWS Landing Zone
 #### Tools
 AWS Control Tower
-#### Tools
-AWS Landing Zone
-#### Tools
-AWS Control Tower
 #### Acceptance Criteria
 • Reviewed checklist of parameters required for creating an AWS landing zone
 #### Acceptance Criteria
 • AWS landing zone created
-#### Acceptance Criteria
-•  AWS landing zone created
 ## Task 3: Subtask 1: Review Landing  Zone Parameters
 #### Description
 Ensure the  following checklist is completed :  
@@ -2387,16 +2381,10 @@ When all the prerequisites and parameters are met, set up the landing zone in th
 AWS Landing Zone
 #### Tools
 AWS Control Tower
-#### Tools
-AWS Landing Zone
-#### Tools
-AWS Control Tower
 #### Acceptance Criteria
 • Reviewed checklist of parameters required for creating an AWS landing zone
 #### Acceptance Criteria
 • AWS landing zone created
-#### Acceptance Criteria
-•  AWS landing zone created
 ## Task 4: Inventory existing AWS accounts and Resources
 #### Description
 Inventory existing AWS accounts and resources
@@ -2737,7 +2725,7 @@ VMware Cloud on AWS
 # Module: Monitoring the migrated environment
 ## Task 1: Application  Performance Monitoring
 #### Description
-Application performance monitoring is the process of tracking key software application performance metrics using monitoring software and telemetry data. This ensures system availability, optimizes service performance and response times, and improves user experiences.It is critical to monitor the performance of the overall system as well as individual components of the system. For more information, see [AWS CloudWatch](https://aws.amazon.com/cloudwatch/.)
+Application performance monitoring is the process of tracking key software application performance metrics using monitoring software and telemetry data. This ensures system availability, optimizes service performance and response times, and improves user experiences.It is critical to monitor the performance of the overall system as well as individual components of the system. For more information, see [AWS CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html.)
 
 #### Tools
 AWS CloudWatch

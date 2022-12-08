@@ -1,0 +1,22 @@
+
+# Database- Migration Template
+You can use this template for heterogeneous migrations into the AWS portfolio of data stores. The template guides you through using services such as AWS Database Migration Service and AWS Schema Coversion Tool to help you meet your database migration goals.
+#### [1. Assess](v1.0/HeterogeneousDatabase/Assess)
++ [Engagement&nbsp;Pre-Kickoff](v1.0/HeterogeneousDatabase/Assess/Engagement%20Pre-Kickoff)
++ [Database&nbsp;Migration&nbsp;Discovery](v1.0/HeterogeneousDatabase/Assess/Database%20Migration%20Discovery)
++ [Database&nbsp;Migration&nbsp;Training&nbsp;and&nbsp;Workshops](v1.0/HeterogeneousDatabase/Assess/Database%20Migration%20Training%20and%20Workshops)
++ [Mobilize&nbsp;Phase&nbsp;readiness](v1.0/HeterogeneousDatabase/Assess/Mobilize%20Phase%20readiness)
+#### [2. Mobilize](v1.0/HeterogeneousDatabase/Mobilize)
++ [Engagement&nbsp;Kickoff](v1.0/HeterogeneousDatabase/Mobilize/Engagement%20Kickoff)
++ [Ways&nbsp;of&nbsp;Working&nbsp;Agile&nbsp;Delivery](v1.0/HeterogeneousDatabase/Mobilize/Ways%20of%20Working%20Agile%20Delivery)
++ [Engagement&nbsp;Resource&nbsp;Onboarding](v1.0/HeterogeneousDatabase/Mobilize/Engagement%20Resource%20Onboarding)
++ [Proof&nbsp;of&nbsp;Concept](v1.0/HeterogeneousDatabase/Mobilize/Proof%20of%20Concept)
+#### [3. Migrate](v1.0/HeterogeneousDatabase/Migrate)
++ [Database&nbsp;migration&nbsp;schema&nbsp;conversion](v1.0/HeterogeneousDatabase/Migrate/Database%20migration%20schema%20conversion)
++ [Database&nbsp;Migration&nbsp;Code&nbsp;transformation](v1.0/HeterogeneousDatabase/Migrate/Database%20Migration%20Code%20transformation)
++ [Database&nbsp;Migration&nbsp;Data&nbsp;Load](v1.0/HeterogeneousDatabase/Migrate/Database%20Migration%20Data%20Load)
++ [Database&nbsp;Migration&nbsp;Handover](v1.0/HeterogeneousDatabase/Migrate/Database%20Migration%20Handover)
++ [Database&nbsp;Migration&nbsp;Cutover&nbsp;planning](v1.0/HeterogeneousDatabase/Migrate/Database%20Migration%20Cutover%20planning)
+#### [4. Operate&nbsp;and&nbsp;Optimize](v1.0/HeterogeneousDatabase/Operate%20and%20Optimize)
++ [Plan&nbsp;Operations](v1.0/HeterogeneousDatabase/Operate%20and%20Optimize/Plan%20Operations)
++ [Database&nbsp;optimization](v1.0/HeterogeneousDatabase/Operate%20and%20Optimize/Database%20optimization)

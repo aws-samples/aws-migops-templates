@@ -4,7 +4,7 @@
 #### Description
 To migrate applications to AWS, we recommend that you use an approach that consists of four phases: assessment, mobilization, migration, and operation. Before you start a migration, get an overview of these phases and of the AWS tools to consider in each phase. These details help simplify and automate the entire migration experience. 
 
-For an overview of the phases and tools that we recommend you use for migrations, see [AWS Migration Hub.](https://aws.amazon.com/migration-hub/.)
+For an overview of the phases and tools that we recommend you use for migrations, see [AWS Migration Hub.](https://docs.aws.amazon.com/migrationhub/latest/ug/whatishub.html.)
 
 For an overview of the migration process, see [AWS Cloud Migration.](https://aws.amazon.com/cloud-migration/.)
 #### Tools

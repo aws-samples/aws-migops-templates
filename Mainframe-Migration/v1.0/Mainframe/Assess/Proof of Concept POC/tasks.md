@@ -4,7 +4,7 @@
 #### Description
 Migrating mainframe applications to AWS requires an approach with four phases: Assess, Mobilize, Migrate & Modernize, and Operate, Optimize & Innovate. It is important to get an overview of these phases and of the AWS tools to consider in each phase.
 
-For an overview of the phases of a migration and the tools to use, see [AWS Migration Hub](https://aws.amazon.com/migration-hub/).
+For an overview of the phases of a migration and the tools to use, see [AWS Migration Hub](https://docs.aws.amazon.com/migrationhub/latest/ug/whatishub.html).
 For an overview of the cloud migration process, see [cloud migration process](https://aws.amazon.com/cloud-migration/).
 For an overview of the cloud migration process for mainframe workloads, see the [AWS Mainframe Modernization User Guide](https://docs.aws.amazon.com/m2/latest/userguide/what-is-m2.html).
 

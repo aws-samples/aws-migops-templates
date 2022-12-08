@@ -1,11 +1,6 @@
-## My Project
+## AWS MigOps
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+AWS MigOps is a new experience and capabilities in AWS Migration Hub that streamlines migrations and helps execute migrations into AWS at scale. As part of this new experience, multiple migration templates would be available for customers. Templates and content would be made public for customers to leverage or create new versions of them.
 
 ## Security
 
