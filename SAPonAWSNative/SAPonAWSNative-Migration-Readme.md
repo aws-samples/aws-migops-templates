@@ -1,0 +1,23 @@
+
+# SAPonAWSNative- Migration Template
+
+#### [1. Assess](v1.0/SAPonAWSNative/Assess)
++ [Initial&nbsp;Engagement&nbsp;with&nbsp;AWS](v1.0/SAPonAWSNative/Assess/Initial%20Engagement%20with%20AWS)
++ [SAP&nbsp;landscape&nbsp;Discovery&nbsp;and&nbsp;Technical&nbsp;Approach](v1.0/SAPonAWSNative/Assess/SAP%20landscape%20Discovery%20and%20Technical%20Approach)
++ [POC&nbsp;and&nbsp;Technical&nbsp;Enablement](v1.0/SAPonAWSNative/Assess/POC%20and%20Technical%20Enablement)
++ [MAP&nbsp;Program&nbsp;-&nbsp;MRA](v1.0/SAPonAWSNative/Assess/MAP%20Program%20-%20MRA)
++ [Complete&nbsp;Assess&nbsp;Phase](v1.0/SAPonAWSNative/Assess/Complete%20Assess%20Phase)
+#### [2. Mobilize](v1.0/SAPonAWSNative/Mobilize)
++ [Initiate&nbsp;the&nbsp;Mobilize&nbsp;phase](v1.0/SAPonAWSNative/Mobilize/Initiate%20the%20Mobilize%20phase)
++ [Proof&nbsp;of&nbsp;Concept](v1.0/SAPonAWSNative/Mobilize/Proof%20of%20Concept)
++ [Platform&nbsp;Planning](v1.0/SAPonAWSNative/Mobilize/Platform%20Planning)
++ [Complete&nbsp;Mobilize&nbsp;phase](v1.0/SAPonAWSNative/Mobilize/Complete%20Mobilize%20phase)
+#### [3. Migrate](v1.0/SAPonAWSNative/Migrate)
++ [Migration&nbsp;Preparation](v1.0/SAPonAWSNative/Migrate/Migration%20Preparation)
++ [Build&nbsp;-&nbsp;Deploy&nbsp;-&nbsp;Test](v1.0/SAPonAWSNative/Migrate/Build%20-%20Deploy%20-%20Test)
++ [Production&nbsp;Cutover&nbsp;Planning&nbsp;and&nbsp;Go-Live](v1.0/SAPonAWSNative/Migrate/Production%20Cutover%20Planning%20and%20Go-Live)
+#### [4. Operate&nbsp;and&nbsp;Optimize](v1.0/SAPonAWSNative/Operate%20and%20Optimize)
++ [Establish&nbsp;SAP&nbsp;on&nbsp;AWS&nbsp;Operations](v1.0/SAPonAWSNative/Operate%20and%20Optimize/Establish%20SAP%20on%20AWS%20Operations)
++ [Optimize&nbsp;SAP&nbsp;environment&nbsp;on&nbsp;AWS](v1.0/SAPonAWSNative/Operate%20and%20Optimize/Optimize%20SAP%20environment%20on%20AWS)
++ [Migration&nbsp;Closeout&nbsp;and&nbsp;Next&nbsp;Steps](v1.0/SAPonAWSNative/Operate%20and%20Optimize/Migration%20Closeout%20and%20Next%20Steps)
++ [Modernize&nbsp;SAP&nbsp;Environment](v1.0/SAPonAWSNative/Operate%20and%20Optimize/Modernize%20SAP%20Environment)

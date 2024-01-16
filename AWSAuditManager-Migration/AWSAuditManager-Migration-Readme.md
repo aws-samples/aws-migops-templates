@@ -1,0 +1,20 @@
+
+# AWSAuditManager- Migration Template
+
+#### [1. Assess](v1.0/AWSAuditManager/Assess)
++ [Get&nbsp;familiar&nbsp;with&nbsp;AWS&nbsp;Audit&nbsp;Manager](v1.0/AWSAuditManager/Assess/Get%20familiar%20with%20AWS%20Audit%20Manager)
++ [Initial&nbsp;kickoff&nbsp;and&nbsp;high-level&nbsp;discovery&nbsp;for&nbsp;migration&nbsp;to&nbsp;Audit&nbsp;Manager](v1.0/AWSAuditManager/Assess/Initial%20kickoff%20and%20high-level%20discovery%20for%20migration%20to%20Audit%20Manager)
++ [Migration&nbsp;Readiness&nbsp;Assessment](v1.0/AWSAuditManager/Assess/Migration%20Readiness%20Assessment)
++ [Mobilize&nbsp;phase&nbsp;readiness](v1.0/AWSAuditManager/Assess/Mobilize%20phase%20readiness)
+#### [2. Mobilize](v1.0/AWSAuditManager/Mobilize)
++ [Platform](v1.0/AWSAuditManager/Mobilize/Platform)
++ [Proof&nbsp;Of&nbsp;Concept](v1.0/AWSAuditManager/Mobilize/Proof%20Of%20Concept)
++ [Completing&nbsp;the&nbsp;Mobilize&nbsp;Phase](v1.0/AWSAuditManager/Mobilize/Completing%20the%20Mobilize%20Phase)
++ [Review&nbsp;best&nbsp;practices](v1.0/AWSAuditManager/Mobilize/Review%20best%20practices)
+#### [3. Migrate&nbsp;or&nbsp;Transform](v1.0/AWSAuditManager/Migrate%20or%20Transform)
++ [Review&nbsp;and&nbsp;update&nbsp;decisions](v1.0/AWSAuditManager/Migrate%20or%20Transform/Review%20and%20update%20decisions)
++ [Execute&nbsp;and&nbsp;monitor](v1.0/AWSAuditManager/Migrate%20or%20Transform/Execute%20and%20monitor)
+#### [4. Operate&nbsp;and&nbsp;Optimize](v1.0/AWSAuditManager/Operate%20and%20Optimize)
++ [Check&nbsp;for&nbsp;areas&nbsp;to&nbsp;improve&nbsp;further](v1.0/AWSAuditManager/Operate%20and%20Optimize/Check%20for%20areas%20to%20improve%20further)
++ [Plan&nbsp;Operations](v1.0/AWSAuditManager/Operate%20and%20Optimize/Plan%20Operations)
++ [Monitoring&nbsp;the&nbsp;migrated&nbsp;environment](v1.0/AWSAuditManager/Operate%20and%20Optimize/Monitoring%20the%20migrated%20environment)
