@@ -1,0 +1,20 @@
+
+# RehostMigration- Migration Template
+
+#### [1. Assess](v2.0/RehostMigration/Assess)
++ [Kick&nbsp;off](v2.0/RehostMigration/Assess/Kick%20off)
++ [Data&nbsp;collection&nbsp;setup](v2.0/RehostMigration/Assess/Data%20collection%20setup)
++ [Migration&nbsp;Readiness&nbsp;Assessment](v2.0/RehostMigration/Assess/Migration%20Readiness%20Assessment)
++ [Specialized&nbsp;assessment&nbsp;Optimization&nbsp;and&nbsp;Licensing&nbsp;Assessment&nbsp;OLA](v2.0/RehostMigration/Assess/Specialized%20assessment%20Optimization%20and%20Licensing%20Assessment%20OLA)
++ [Directional&nbsp;Business&nbsp;Case&nbsp;creation](v2.0/RehostMigration/Assess/Directional%20Business%20Case%20creation)
+#### [2. Mobilize](v2.0/RehostMigration/Mobilize)
++ [Migration&nbsp;setup](v2.0/RehostMigration/Mobilize/Migration%20setup)
++ [Generate&nbsp;wave&nbsp;plan](v2.0/RehostMigration/Mobilize/Generate%20wave%20plan)
+#### [3. Migrate](v2.0/RehostMigration/Migrate)
++ [Migration&nbsp;Hub&nbsp;setup](v2.0/RehostMigration/Migrate/Migration%20Hub%20setup)
++ [MGN&nbsp;setup](v2.0/RehostMigration/Migrate/MGN%20setup)
++ [Perform&nbsp;migration&nbsp;wave&nbsp;1](v2.0/RehostMigration/Migrate/Perform%20migration%20wave%201)
++ [Rollback&nbsp;wave&nbsp;1](v2.0/RehostMigration/Migrate/Rollback%20wave%201)
+#### [4. Operate](v2.0/RehostMigration/Operate)
++ [Monitoring&nbsp;the&nbsp;migrated&nbsp;environment](v2.0/RehostMigration/Operate/Monitoring%20the%20migrated%20environment)
++ [Plan&nbsp;Operations](v2.0/RehostMigration/Operate/Plan%20Operations)
